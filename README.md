@@ -3,11 +3,11 @@
 ### Its fun.
 
 
--this
--is
--a
--bullet
--list
+- this
+- is
+- a
+- bullet
+- list
 
 
 | Tables     | are        | weird | and      | useful |
